@@ -34,7 +34,7 @@ on your **package.json**
 }
 ```
 
-Then `npm run private-publish`. Or if want it right after `npm version <type>`.
+Then `npm run private-publish`. In a case that you want it right after `npm version <type>`:
 
 ```json
 {
