@@ -1,0 +1,31 @@
+{
+  "name": "furied",
+  "version": "1.0.0",
+  "description": "Publish private npm packages easily on gemfury",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "furied": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiniest/furied.git"
+  },
+  "keywords": [
+    "gemfury",
+    "fury",
+    "npm",
+    "private"
+  ],
+  "author": "Helder Santana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiniest/furied/issues"
+  },
+  "homepage": "https://github.com/tiniest/furied#readme"
+}
