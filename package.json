@@ -1,6 +1,6 @@
 {
   "name": "furied",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish private npm packages easily on gemfury",
   "main": "index.js",
   "scripts": {
